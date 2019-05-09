@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Computer Science Specialist, Statistics Minor (GPA: 3.91/4), University of Toronto, 2018
+* M.Sc. Computer Science, University of Toronto (projected: 2020)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017 - Current: Research Student
+  * Goldenberg Lab, SickKids Research Institute / University of Toronto
+  * Projects: Association o
+  * Supervisor: Dr. Anna Goldenberg
 
 * Fall 2015: Research Assistant
   * Github University
@@ -36,9 +35,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -46,12 +51,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
