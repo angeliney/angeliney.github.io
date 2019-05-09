@@ -16,15 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2017 - Current: Research Student
-  * Goldenberg Lab, SickKids Research Institute / University of Toronto
-  * Projects: Association o
-  * Supervisor: Dr. Anna Goldenberg
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.work %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -38,12 +32,6 @@ Skills
 Research
 ======
   <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

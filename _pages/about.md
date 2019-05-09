@@ -10,5 +10,5 @@ redirect_from:
 
 Hi there! I am currently pursuing a Master degree in Computer Science, University of Toronto. 
 My research interests revolve around how to properly incorporate machine learning in real applications. 
-I'm interested in investigating underlying bias in datasets, causality, algorithmic fairness, explainability, and
-working with time-series data. I'm familiar with computer vision, generative probabilistic models, differential privacy and reinforcement learning.
+I'm interested in investigating underlying bias in datasets, causal inference, building a fair model, and
+working with time-series data.
