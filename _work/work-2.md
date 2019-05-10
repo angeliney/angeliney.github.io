@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: Sunnybrook Health Sciences Centre
 collection: work
-type: "Workshop"
-permalink: /work/2015-spring-teaching-1
-venue: "Physiology Department at University of Toronto"
-date: 2015-01-01
-location: "City, Country"
+type: "Co-op Student"
+venue: "Clinical Pathology Laboratory"
+date: 2013-01-01
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Under the supervision of Dr. P.C. Chan, I supported lab pathologists in their day to day tasks, and worked on data analysis for a project on Bisalbuminemia.
+The project was later published in Journal of Clinical Chemistry and Laboratory Medicine. I also put together a few  e-learning modules for nurses.

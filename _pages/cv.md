@@ -40,5 +40,6 @@ Talks
   
 Service and leadership
 ======
+* Computer Science Undergraduate Committee 2018
 * UofT Undergraduate Research in Computer Science Conference 2018 co-chair
 * UofT Web Club group leader (2016-2017)

@@ -1,8 +1,10 @@
 ---
-title: "Bachelor"
-excerpt: "B.Sc. Computer Science Specialist, Statistics Minor (GPA: 3.91/4), University of Toronto, 2018"
+title: "B.Sc. at University of Toronto"
+excerpt: "Computer Science Specialist, Statistics Minor (GPA: 3.91/4), 2018"
 collection: education
 ---
+
+Computer Science Specialist, Statistics Minor (GPA: 3.91/4), 2018
 
 In my senior years, I mainly focused on Artificial Intelligence and data science. 
 Other than that, I've been privileged to be able to explore many different fields throughout my undergraduate: 
