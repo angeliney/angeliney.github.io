@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Master"
+excerpt: "M.Sc. Computer Science (current, projected 2020)"
 collection: education
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+My Master studies mainly focus on machine learning and its application to healthcare data. I've taken classes and done projects in:
+* Machine Learning for Health
+* Deep Reinforcement Learning
+* Algorithms for Private Data Analysis
+* Probabilistic Learning and Reasoning
+
+In the beginning of my Master study, I was privileged to co-chair the first UofT Undergraduate Research in Computer Science Conference 2018 and awarded Vector Scholarship in Artificial Intelligence.
+

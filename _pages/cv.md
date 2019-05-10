@@ -22,12 +22,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning
+* Familiarity with reinforcement learning, NLP, computer vision, differential privacy, and causality
+* Programming languages: R, Bash shell, Python, Matlab,  Java, C, Racket, Haskell, SQL
 
 Research
 ======
@@ -43,4 +40,5 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* UofT Undergraduate Research in Computer Science Conference 2018 co-chair
+* UofT Web Club group leader (2016-2017)

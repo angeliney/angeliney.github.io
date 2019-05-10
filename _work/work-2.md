@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: work
-type: "Undergraduate course"
-permalink: /work/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Workshop"
+permalink: /work/2015-spring-teaching-1
+venue: "Physiology Department at University of Toronto"
+date: 2015-01-01
 location: "City, Country"
 ---
 
