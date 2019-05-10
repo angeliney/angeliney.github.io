@@ -1,5 +1,5 @@
 ---
-title: "M.Sc. at University of Toronto"
+title: "M.Sc., University of Toronto"
 excerpt: "Computer Science (current, projected 2020)"
 collection: education
 ---

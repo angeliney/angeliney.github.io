@@ -1,5 +1,5 @@
 ---
-title: "B.Sc. at University of Toronto"
+title: "B.Sc., University of Toronto"
 excerpt: "Computer Science Specialist, Statistics Minor (GPA: 3.91/4), 2018"
 collection: education
 ---
